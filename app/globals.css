@@ -241,6 +241,11 @@
 .cl-internal-1vi7rps {
   background-color: rgb(7, 6, 6);
 }
+.cl-internal-5twwv2,
+.cl-internal-2tn0z0 {
+  background-color: rgba(0, 0, 0, 0.949);
+  color: #b0fe09;
+}
 /* =============================== */
 
 /* @layer utilities {
